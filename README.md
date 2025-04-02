@@ -1,4 +1,4 @@
-#MS Relapse
+#MS Relapse AI
 
 
 This project uses a machine learning model to predict the likelihood of a Multiple Sclerosis (MS) relapse.
